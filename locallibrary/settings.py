@@ -104,7 +104,7 @@ DATABASES = {
         'NAME': 'locallib',
         'USER': 'postgres',
         'PASSWORD': 'raww',
-        'HOST': 'localhost',
+        'HOST': '',
         'PORT': 5432,
     }
 }
